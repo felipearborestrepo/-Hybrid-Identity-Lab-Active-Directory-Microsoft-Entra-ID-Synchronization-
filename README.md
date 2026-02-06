@@ -149,8 +149,6 @@ Passwords were set for lab validation, and forced password changes at first logo
 
 ![Image 2-5-26 at 23 36](https://github.com/user-attachments/assets/80884020-8c8b-4ea1-979a-9305ba9db894)
 
-![Image 2-5-26 at 23 37](https://github.com/user-attachments/assets/dcc94bf0-9200-4ec5-8c4d-27ccfb808f13)
-
 ---
 
 ## 🔑 Phase 5 — Manual Access Assignment
@@ -169,7 +167,7 @@ This models how access is commonly granted during early-stage IAM implementation
 
 ![Image 2-5-26 at 23 38](https://github.com/user-attachments/assets/31541f76-e30a-460c-a262-3c83ee281fda)
 
-![Image 2-5-26 at 23 38](https://github.com/user-attachments/assets/36f25640-0c31-4590-adf0-93d5b0165fc3)
+![Image 2-5-26 at 23 37](https://github.com/user-attachments/assets/e3a4ad28-c4ef-4114-b6a5-dbd2275f719f)
 
 ---
 
